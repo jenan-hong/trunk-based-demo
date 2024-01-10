@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          Trunk based development is the best way to develop software.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
