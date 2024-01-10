@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Release 1.0
+        </p>
+        <p>
+          Trunk based development is the best way to develop software.
         </p>
         <p>
           Trunk based development is the best way to develop software.
