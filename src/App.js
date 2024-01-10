@@ -9,6 +9,9 @@ function App() {
         <p>
           Release 1.0
         </p>
+        <p>
+          Trunk based development is the best way to develop software.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
